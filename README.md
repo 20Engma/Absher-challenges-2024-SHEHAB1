@@ -12,3 +12,5 @@
 
 سلسلة الكتل (Blockchain): توفر منصة آمنة وغير قابلة للتغيير لتخزين بيانات 
 الحوادث والتقارير، مما يضمن الشفافية والأمان في مشاركة المعلومات.
+
+لتحميل ملف نموذج cnn الرجاء الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
