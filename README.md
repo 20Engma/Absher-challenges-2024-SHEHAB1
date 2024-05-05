@@ -10,6 +10,9 @@
 
 يحوي ملف bestt.pt على النموذج المدرب ليولو كما يمكنكم تحميل ملف نموذج cnn ب الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
 
+
+
+
 يحوي ملف image test1.jpg على صورة لتجربة الأداء
 in future stages: 
 
