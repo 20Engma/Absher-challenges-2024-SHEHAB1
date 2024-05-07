@@ -8,7 +8,7 @@
 
 يحوي ملف Final_code.ipynb على النتيجة النهائية بعد دمج النموذجين ليحقق أداء ايجابي بالكشف على درجة الحادث و السيارة المخطئة .
 
-يحوي ملف bestt.pt على النموذج المدرب ليولو كما يمكنكم تحميل ملف نموذج cnn ب الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
+يحوي ملف yolo model.pt على النموذج المدرب ليولو كما يمكنكم تحميل ملف نموذج cnn ب الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
 
 
 يحوي ملف image test1.jpg على صورة لتجربة الأداء
