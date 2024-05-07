@@ -16,6 +16,7 @@
 للوصول ل datasets  عبر الروابط التالية :
 
 الdataset التي تم تدريب يولو عليها هي : https://drive.google.com/drive/folders/1xY6wBHLggh9dFBfNel7NKmFKuaYo6V9L?usp=sharing
+
 ال dataset التي تم تدريب ال cnn  عليها هي :https://drive.google.com/drive/folders/1ocs7QfoBhIr2BsqG65IBke1hsCIzn-r4?usp=sharing
 
 
