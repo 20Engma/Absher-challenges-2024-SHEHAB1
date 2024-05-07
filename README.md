@@ -10,6 +10,8 @@
 
 يحوي ملف yolo model.pt على النموذج المدرب ليولو كما يمكنكم تحميل ملف نموذج cnn ب الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
 
+يحوي ملف Model Performance SEHAB تقرير مختصر لمقاييس الأداء الخاص بنموذج يولو
+
 
 يحوي ملف image test1.jpg على صورة لتجربة الأداء
 
@@ -18,6 +20,8 @@
 الdataset التي تم تدريب يولو عليها هي : https://drive.google.com/drive/folders/1xY6wBHLggh9dFBfNel7NKmFKuaYo6V9L?usp=sharing
 
 ال dataset التي تم تدريب ال cnn  عليها هي :https://drive.google.com/drive/folders/1ocs7QfoBhIr2BsqG65IBke1hsCIzn-r4?usp=sharing
+
+
 
 
 
