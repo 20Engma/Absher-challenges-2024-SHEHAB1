@@ -1,6 +1,5 @@
 
 
-Welcome to the official repository for Team SHEHAB's submission in the Absher 2024 Challenge.
 
 ## Overview
 
