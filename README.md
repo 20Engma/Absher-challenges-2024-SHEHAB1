@@ -1,41 +1,35 @@
-السلام عليكم ورحمة الله وبركاته 
-هنا الدليل الأرشادي للمحتوى المقدم في مسابقة ابشر 2024 لفريق شهاب
-
-# نرجوا قراءة جميع الملفات الموجودة المذكورة هنا :
-
-يحتوي ملف Why SHEHAB APP-IMPORTANT على رؤيتنا ورسالتنا كفريق في الحاضر والمستقبل وما نطمح اليه من خلال مشاركتنا في تحدي ابشر 2024 
-
-يحوي ملف SEHABYOLO.ipynb على notebook الخاص بتدريب البيانات على نموذج يولو لتصنيف نوع السيارة المخطئة .
-
-يحوي ملف SEHABCNNmodel.ipynb على notebook الخاص بتدريب البيانات على نموذج cnn لتصنيف درجة الحادث (جسيم-major -غير جسيم - minor) .
-
-يحوي ملف Final_code.ipynb على النتيجة النهائية بعد دمج النموذجين ليحقق أداء ايجابي بالكشف على درجة الحادث و السيارة المخطئة .
-
-يحوي ملف yolo model.pt على النموذج المدرب ليولو كما يمكنكم تحميل ملف نموذج cnn ب الضغط على الرابط : https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing
-
-يحوي ملف Model Performance SEHAB تقرير مختصر لمقاييس الأداء الخاص بنموذج يولو
 
 
-يحوي ملف Test_images على صور لتجربة 
+Welcome to the official repository for Team SHEHAB's submission in the Absher 2024 Challenge.
 
-للوصول ل datasets  عبر الروابط التالية :
+## Overview
 
-الdataset التي تم تدريب يولو عليها هي : https://drive.google.com/drive/folders/1xY6wBHLggh9dFBfNel7NKmFKuaYo6V9L?usp=sharing
+This repository contains all the essential files and resources for our project. Below, you’ll find a brief description of the files and their purpose, as well as links to datasets and models used for training. Our aim is to address accident detection and classification using advanced AI techniques such as YOLO and CNN models.
 
-ال dataset التي تم تدريب ال cnn  عليها هي :https://drive.google.com/drive/folders/1ocs7QfoBhIr2BsqG65IBke1hsCIzn-r4?usp=sharing
+### Files Description:
 
+- **Why SHEHAB APP-IMPORTANT**: This file outlines our vision and mission for Team SHEHAB in the present and future, along with our goals for participating in the Absher 2024 Challenge.
+  
+- **SEHABYOLO.ipynb**: This Jupyter notebook contains the code for training the YOLO model used to classify the type of vehicle at fault in accidents.
+  
+- **SEHABCNNmodel.ipynb**: This Jupyter notebook is for training the CNN model to classify the severity of an accident (Major, Minor, etc.).
+  
+- **Final_code.ipynb**: The final integrated model, which combines the YOLO and CNN models to detect the severity of the accident and identify the vehicle at fault.
+  
+- **yolo model.pt**: The trained YOLO model file. You can download the trained CNN model by following this link: [CNN Model](https://drive.google.com/drive/folders/1v90nAWkRJ8FXfiyl_CTgSQUCqdLkp302?usp=sharing).
+  
+- **Model Performance SEHAB**: A brief performance report that outlines the evaluation metrics of the YOLO model.
+  
+- **Test_images**: Contains sample images to test the models and validate their performance.
 
+### Datasets:
 
+- **YOLO Training Dataset**: The dataset used to train the YOLO model is available [here](https://drive.google.com/drive/folders/1xY6wBHLggh9dFBfNel7NKmFKuaYo6V9L?usp=sharing).
+  
+- **CNN Training Dataset**: The dataset used to train the CNN model can be found [here](https://drive.google.com/drive/folders/1ocs7QfoBhIr2BsqG65IBke1hsCIzn-r4?usp=sharing).
 
+### Future Stages:
 
-in future stages: 
+- **Blockchain.pdf**: This document contains the proposed Proof of Concept (POC) for integrating blockchain technology into our solution.
 
-
-
-يحوي ملف Blockchain .pdf على POC  المقترح بجزء البلوكتشين 
-
-شكراً لكم 
-
-
-للأستفسار الرجاء التواصل على الأيميل التالي : amjadfalthobiti@gmail.com
-
+We thank you for your time and consideration of our submission.
